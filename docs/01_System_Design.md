@@ -35,7 +35,7 @@
 
 ### Рисунок 1. Эволюция проекта 
 
-![Evolution](../images/Evolution.png)
+![Evolution](../images/architecture/Evolution.png)
 
 В результате проект превратился из журнала решённых задач в систему поддержки обучения, автоматически формирующую рекомендации на основе накопленной статистики.
 
@@ -123,17 +123,17 @@ Pattern
 
 ### Рисунок 2. Knowledge Model — SQL
 
-![SQL Knowledge Map](../images/SQL_Knowledge_Map.png)
+![SQL Knowledge Map](../images/knowledge_maps/SQL_Knowledge_Map.png)
 
 -----------------
 ### Рисунок 3. Knowledge Model — Theory of Probability
 
-![Probability Knowledge Map](../images/Probability_Knowledge_Map.png)
+![Probability Knowledge Map](../images/knowledge_maps/Probability_Knowledge_Map.png)
 
 ----------------- 
 ### Рисунок 4. Knowledge Model — Statistics
 
-![Statistics Knowledge Map](../images/Statistics_Knowledge_Map.png)
+![Statistics Knowledge Map](../images/knowledge_maps/Statistics_Knowledge_Map.png)
 
 ---
 
@@ -145,7 +145,7 @@ Pattern
 
 ### Рисунок 5. ER Diagram
 
-![ER Diagram](../images/ER_Diagram.png)
+![ER Diagram](../images/architecture/ER_Diagram.png)
 
 Модель включает четыре основные сущности:
 
@@ -170,7 +170,7 @@ Study Recommendation System построена по принципу много�
 
 ### Рисунок 6. Общая архитектура системы
 
-![System Architecture](../images/ System_Architecture.png)
+![System Architecture](../images/architecture/System_Architecture.png)
 
 В системе можно выделить пять основных слоёв.
 
