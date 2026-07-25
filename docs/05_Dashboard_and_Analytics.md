@@ -85,7 +85,7 @@ Dashboard состоит из трёх самостоятельных стран
 
 ### Рисунок 1. Страница «Обзор обучения» 
 
-![Learning Overview](../images/dashboard/Learning_Overview.png)
+![Learning Overview](../images/dashboard/Learning_Overview.PNG)
 
 ### План повторения
 
@@ -103,7 +103,7 @@ Dashboard состоит из трёх самостоятельных стран
 
 ### Рисунок 2. Страница «План повторения»
 
- ![Recommendation Plan](../images/dashboard/Recommendation_Plan.png)
+ ![Recommendation Plan](../images/dashboard/Recommendation_Plan.PNG)
 
 ### Task Bank
 
@@ -120,7 +120,7 @@ Task Bank может использоваться как совместно с R
 
 ### Рисунок 4. Страница «Task Bank»
 
- ![Task Bank](../images/dashboard/Task_Bank.png)
+ ![Task Bank](../images/dashboard/Task_Bank.PNG)
 
 ---
 
