@@ -57,7 +57,7 @@ Recommendation Engine использует историю обучения по�
 
 ### Рисунок 1. Архитектура Recommendation Engine 
 
-![Recommendation Engine](../images/Recommendation_Engine.png)
+![Recommendation Engine](../images/architecture/Recommendation_Engine.png)
 
 ---
 
