@@ -29,7 +29,7 @@
 
 ### Рисунок 1. Data Loading Pipeline
 
-![Data Loading Pipeline](../images/Data_Loading_Pipeline.png)
+![Data Loading Pipeline](../images/architecture/Data_Loading_Pipeline.png)
 
 ---
 
