@@ -41,7 +41,7 @@ Study Recommendation System разрабатывается как единая �
 
 # Архитектура проекта
 
-![System Architecture](images/System_Architecture.png)
+![System Architecture](images/architecture/System_Architecture.png)
 
 Архитектура проекта построена по модульному принципу и включает несколько взаимосвязанных компонентов.
 
@@ -83,7 +83,7 @@ Recommendation Engine анализирует историю попыток ре�
 
 В основе Recommendation Engine лежит алгоритм, основанный на системе правил и аналитических показателях.
 
-![Recommendation Engine](images/Recommendation_Engine.png)
+![Recommendation Engine](images/architecture/Recommendation_Engine.png)
 
 📖 **Подробное описание алгоритма приведено в документе `Recommendation_Engine.md`.**
 
@@ -199,4 +199,4 @@ Dashboard предоставляет единый интерфейс для ан
 - Telegram Bot;
 - персонализация рекомендаций.
 
-Полный план развития представлен в документе **Project_Roadmap.md**.
+🚀 **Полный план развития представлен в документе `Project_Roadmap.md`**.
