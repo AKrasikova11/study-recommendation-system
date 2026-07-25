@@ -1,3 +1,8 @@
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat)
+
+
 # 📚 Study Recommendation System
 
 **Study Recommendation System** — pet-проект по разработке аналитической системы, которая использует историю обучения для оценки уровня освоения материала и формирования рекомендаций по его повторению.
