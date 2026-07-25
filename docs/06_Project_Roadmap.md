@@ -141,7 +141,7 @@ Study Recommendation System не создавался как законченн�
 
 ### Рисунок 1. Roadmap развития проекта 
 
-![Project Roadmap](../images/Project_Roadmap.png)
+![Project Roadmap](../images/architecture/Project_Roadmap.png)
 
 Развитие проекта определяется не заранее установленным списком задач, а накоплением новых требований и появлением практических сценариев использования.
 
