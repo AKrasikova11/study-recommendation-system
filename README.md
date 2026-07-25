@@ -97,19 +97,19 @@ Recommendation Engine анализирует историю попыток ре�
 
 ## 📊 Обзор обучения
 
-![Learning Overview](images/dashboard/Learning_Overview.png)
+![Learning Overview](images/dashboard/Learning_Overview.PNG)
 
 ---
 
 ## 🎯 План повторения
 
-![Recommendation Plan](images/dashboard/Recommendation_Plan.png)
+![Recommendation Plan](images/dashboard/Recommendation_Plan.PNG)
 
 ---
 
 ## 📚 Task Bank
 
-![Task Bank](images/dashboard/Task_Bank.png)
+![Task Bank](images/dashboard/Task_Bank.PNG)
 
 Dashboard предоставляет единый интерфейс для анализа процесса обучения, просмотра рекомендаций и работы с банком задач.
 
