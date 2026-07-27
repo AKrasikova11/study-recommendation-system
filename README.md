@@ -102,17 +102,23 @@ Recommendation Engine анализирует историю попыток ре�
 
 ## 📊 Обзор обучения
 
+Общий обзор базы знаний, ключевые показатели и прогресс обучения.
+
 ![Learning Overview](images/dashboard/Learning_Overview.PNG)
 
 ---
 
 ## 🎯 План повторения
 
+Список тем, рекомендуемых к повторению, с указанием причин формирования рекомендаций.
+
 ![Recommendation Plan](images/dashboard/Recommendation_Plan.PNG)
 
 ---
 
 ## 📚 Task Bank
+
+Поиск задач по разделам, группам и паттернам для самостоятельной практики.
 
 ![Task Bank](images/dashboard/Task_Bank.PNG)
 
